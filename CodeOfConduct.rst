@@ -1,4 +1,5 @@
 Code of conduct
+===============
 
 CamPUG (the Cambridge Python User Group) wants to provide a comfortable
 environment for anyone to discuss Python and other related matters of
@@ -8,8 +9,8 @@ As such, anyone attending a CamPUG meeting or event, or using our online
 venues (including our meetup.com and google group pages) is required to
 conform to the following code of conduct.
 
-The short version:
-
+The short version
+-----------------
 Be kind to and considerate of others. Consider how what you say or do may be
 perceived by those around you.
 
@@ -20,8 +21,8 @@ or religion. We do not tolerate harassment of CamPUG participants in any form.
 All communication should be appropriate for an audience including people of
 many different backgrounds and ages.
 
-The longer version:
-
+The longer version
+------------------
 Harassment includes offensive communication related to gender, sexual
 orientation, disability, physical appearance, body size, race, religion,
 sexual images in public spaces, deliberate intimidation, stalking, following,
@@ -44,13 +45,13 @@ either at the meeting (if appropriate) or by email at tibs@tonyibbs.co.uk,
 providing as much information as possible. All information reported will be
 kept confidential.
 
-License:
+License
+-------
+This code of conduct is amended from `PyCon US's Code of Conduct`_, which was
+forked from the example policy on the `Geek Feminism Wiki`_.
 
-This code of conduct is amended from
-[PyCon US's Code of Conduct](https://us.pycon.org/2016/about/code-of-conduct/),
-which was forked from the example policy on the
-[Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+It is released under a `Creative Commons Attribution 3.0 Unported License`_
 
-It is released under a
-[Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
-
+.. _`PyCon US's Code of Conduct`: https://us.pycon.org/2016/about/code-of-conduct/
+.. _`Geek Feminism Wiki`: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy
+.. _`Creative Commons Attribution 3.0 Unported License`: http://creativecommons.org/licenses/by/3.0/
