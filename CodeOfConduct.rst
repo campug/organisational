@@ -40,10 +40,9 @@ CamPUG organisers may take any action they deem appropriate, including (but
 not limited to) warning the offender, expelling them from a meeting, or
 banning them from future meetings.
 
-If you are being harassed, or have any other concerns, please contact Tibs,
-either at the meeting (if appropriate) or by email at tibs@tonyibbs.co.uk,
-providing as much information as possible. All information reported will be
-kept confidential.
+If you are being harassed, or have any other concerns, please contact one of
+the Meetup admins, providing as much information as possible.
+All information reported will be kept confidential.
 
 License
 -------
